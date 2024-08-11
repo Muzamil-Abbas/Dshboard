@@ -1,0 +1,116 @@
+{
+  "medicines": [
+    {
+      "id": "D06ID232435451",
+      "name": "Azithral 500 Tablet",
+      "group": "Generic Medicine",
+      "stock": 20,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435452",
+      "name": "Ascoril LS Syrup",
+      "group": "Diabetes",
+      "stock": 85,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435453",
+      "name": "Azee 500 Tablet",
+      "group": "Generic Medicine",
+      "stock": 75,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435454",
+      "name": "Allegra 120mg Tablet",
+      "group": "Diabetes",
+      "stock": 44,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435455",
+      "name": "Alex Syrup",
+      "group": "Generic Medicine",
+      "stock": 60,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435456",
+      "name": "Amoxicillin 500mg",
+      "group": "Antibiotic",
+      "stock": 150,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435457",
+      "name": "Cetrizine 10mg",
+      "group": "Antihistamine",
+      "stock": 120,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435458",
+      "name": "Loratadine 10mg",
+      "group": "Antihistamine",
+      "stock": 90,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435459",
+      "name": "Metformin 500mg",
+      "group": "Antidiabetic",
+      "stock": 85,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435460",
+      "name": "Omeprazole 20mg",
+      "group": "Proton Pump Inhibitor",
+      "stock": 65,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435461",
+      "name": "Simvastatin 10mg",
+      "group": "Statin",
+      "stock": 110,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435462",
+      "name": "Hydrochlorothiazide 25mg",
+      "group": "Diuretic",
+      "stock": 95,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435463",
+      "name": "Losartan 50mg",
+      "group": "Angiotensin Receptor Blocker",
+      "stock": 130,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435464",
+      "name": "Gabapentin 300mg",
+      "group": "Anticonvulsant",
+      "stock": 70,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435465",
+      "name": "Sertraline 50mg",
+      "group": "Antidepressant",
+      "stock": 80,
+      "link": "View Full Detail"
+    },
+    {
+      "id": "D06ID232435466",
+      "name": "Prednisone 10mg",
+      "group": "Corticosteroid",
+      "stock": 60,
+      "link": "View Full Detail"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Styles */
+body {
+  @apply m-0 p-0 w-screen h-screen overflow-hidden text-black bg-black font-sans;
+}
+
+/* Custom Components */
+@layer components {
+  .app {
+    @apply fixed top-16 left-68 right-0 bottom-0 flex flex-col overflow-y-auto box-border bg-body-color;
+  }
+
+  /* Extra-large screens (1280px and above) */
+
+  @screen 2xl {
+    .app {
+      @apply top-16 left-68 right-0 bottom-0 flex flex-col overflow-y-auto box-border bg-body-color;
+    }
+  }
+
+  /* Large screens (1024px and above) */
+  @screen xl {
+    .app {
+      @apply top-16 left-68 right-0 bottom-0 flex flex-col overflow-y-auto box-border bg-body-color;
+    }
+  }
+
+  /* Medium screens (768px and above) */
+  @screen lg {
+    .app {
+      @apply top-16 left-68 right-0 bottom-0 flex flex-col overflow-y-auto box-border bg-body-color;
+    }
+  }
+
+  /* Medium screens (768px and above) */
+  @screen md {
+    .app {
+      @apply top-16 left-68 right-0 bottom-0;
+    }
+  }
+
+  /* Small screens (640px and above) */
+  @screen sm {
+    .app {
+      @apply top-16 left-68 right-0 bottom-0;
+    }
+  }
+
+  /* Extra-small screens (below 640px) */
+  @media (max-width: 639px) {
+    .app {
+      @apply top-16 left-0 right-0 bottom-0 p-5;
+    }
+  }
+}
